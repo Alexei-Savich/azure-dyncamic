@@ -1,0 +1,26 @@
+.mainRows {
+    background-color: yellow;
+    font-weight: bold;
+}
+.even {
+    background-color: pink;
+}
+.odd {
+    background-color: aqua;
+}
+table {
+    border-color: red;
+    border: 1
+}
+.scrollableDiv {
+    float: left;
+    overflow: auto;
+    width: calc(100% - 510px);
+    height: 400px;
+}
+canvas {
+    float: right;
+    border: 1px;
+    border-style: solid;
+    float: right;
+}
